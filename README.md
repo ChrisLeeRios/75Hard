@@ -1,7 +1,8 @@
 # 75 Hard
 
-A Mern Project I developed!
+A work in progress using the MERN stack!
 
-Still in development! A site i made for my fiance and I to track meals and progress on a self tranformation Challange we are attempting called 75 Hard
+A Passion project fot my fiance and I to track our meala and progress on a self tranformation Challange we are attempting called 75 Hard
+Im am so excited to share our journey!
 
 <a href='http://54.237.115.173/'> 75 Hard Website </a>
