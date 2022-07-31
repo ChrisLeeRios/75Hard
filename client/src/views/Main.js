@@ -8,7 +8,7 @@ const Main = (props) => {
     const [loaded, setLoaded] = useState(false);
 
     useEffect(() => {
-        axios.get('/api/sfhards')
+        axios.get('http://localhost:8000/api/sfhards')
             .then(res => {
                 setSfhards(res.data);
                 setLoaded(true);
