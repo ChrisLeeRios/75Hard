@@ -2,7 +2,8 @@
 
 A work in progress using the MERN stack!
 
-A Passion project for my fiance and I to track our meals and progress through out a self tranformation Challange we are attempting called 75 Hard.
+A passion project for my fiance and I to track our meals and progress throughout a self transformation challenge we are attempting called 75 Hard.
+
 
 I am so excited for you to share our journey!
 
